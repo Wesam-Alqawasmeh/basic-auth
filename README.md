@@ -20,6 +20,12 @@
 
 ## Links
 
+[Main branch deployed on heroku](https://wesam-basic-auth.herokuapp.com/)
+
+[Pull request from dev branch to main](https://github.com/Wesam-Alqawasmeh/basic-auth/pull/1)
+
+[GitHub actions](https://github.com/Wesam-Alqawasmeh/basic-auth/actions)
+
 
 ---
 
